@@ -9,7 +9,7 @@
 <p> 
               I'm Stephen Zimmermann, Electrical Controls Engineer with 10+ years of expertise in programming and automating industruial equipment. 
             </p> 
-            <p>I am working on translating my current skills (always trying to learn new ones) into a Data Scienctist role with an emphasis on Machine Learning .</p>
+            <p>I am working on translating my current skills (always trying to learn new ones) into a Data Scienctist role with an emphasis on Machine Learning.</p>
 
  <p class = "">
               I enrolled in the University of California, Berkeley's Data Analytic Program in March 2022 besides my full time engineering job to help kickstart my transistion and have since learned: 
