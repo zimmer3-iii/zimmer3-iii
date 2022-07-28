@@ -95,12 +95,13 @@
                 <li> Demonstrated organizational skills and detail orientation with ability to multi-task in a fast-paced environment with competing priorities.</li>
                 <li> Strong interpersonal skills. The ability to translate technical jargon into terms that business users can understand.</li>
                 <li> Experience creating information/control systems and system standards for fast-paced manufacturing environments.</li>
-                
-              </ul>
+                </ul>
+				
   <h4>Technical skills</h4>
                 <ul class="w3-ul" style="font-weight: 500;">
                   <li>Python,R Programming, VBA, HTML, Machine Learning, Statistics, Tableau, SQL, Problem-Solving (Advance), Mathematics, Javascripts, AWS (Basic), Data Modeling
                   </li>
+				  </ul>
                   
                
    </div>
