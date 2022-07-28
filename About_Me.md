@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align= "center">
-<img src="myport.jpg" alt="#" class="center" >
+<img src="myprof.jpg" alt="#" class="center" >
 
 </p>
 <p class="w3-margin-top-2"> 
@@ -32,39 +32,34 @@
 <h1 align="center">My Employment History</h1>
 
 <div class="">
-                <h4>Lead Controls Engineer at USNR</h4>
-                <p>November 2015 – Present
-                </p>
-                <ul class="w3-ul" style="font-weight: 500;">
-                  <li> Designed, programed, and commissioned industrial controls systems which included discrete & analog I/O, motion control, 
-vision applications, and networking for engineered wood product companies.
-                  </li>
-                  <li>
-                     Vital role in creating a unified controls group and standardizing code across different machine specialty groups.
-                    </li>
-                  <li> Trained new engineers to develop code, successfully start-up installations, and how to seek out needed resource to 
-become effective controls engineers.
-                  </li>
-                  <li> Field experience commissioning and servicing control systems included PLC’s, HMI’s, VFD’s, Servos.
-                  </li>
+<h4>Lead Controls Engineer at USNR</h4>
+<p>November 2015 – Present
+</p>
+<ul class="w3-ul" style="font-weight: 500;">
+  <li> Designed, programed, and commissioned industrial controls systems which included discrete & analog I/O, motion control, vision applications, and networking for engineered wood product companies.
+  </li>
+  <li>
+	 Vital role in creating a unified controls group and standardizing code across different machine specialty groups.
+	</li>
+  <li> Trained new engineers to develop code, successfully start-up installations, and how to seek out needed resource to become effective controls engineers.
+  </li>
+  <li> Field experience commissioning and servicing control systems included PLC’s, HMI’s, VFD’s, Servos.
+  </li>
                 
 
 <h4>Autotool Inc.</h4>
 <p>Senior Controls Engineer</p>
  <p> June 2012 – September 2015 </p>
            <ul class="w3-ul" style="font-weight: 500;">
-                  <li>Worked multiple roles in a project leader position to develop OEM electrical-mechanical equipment and integrate robotic 
-and motion controls for autonomous machines for car manufactures; i.e for Honda, GM, Ford. 
+                  <li>Worked multiple roles in a project leader position to develop OEM electrical-mechanical equipment and integrate robotic and motion controls for autonomous machines for car manufactures; i.e for Honda, GM, Ford. 
 
                   </li>
                   <li>
-                     Designed large multi-platform communication networks: CC-Link, DeviceNet, Ethernet with multiple protocols: CIP, 
-Ethernet IP, DCS capabilities; and multiple topologies: star, DLR, ring, bus, linear. 
+                     Designed large multi-platform communication networks: CC-Link, DeviceNet, Ethernet with multiple protocols: CIP, Ethernet IP, DCS capabilities; and multiple topologies: star, DLR, ring, bus, linear. 
 
                     </li>
 					<li>
-                     Developed and utilized a strategy to export component lists from AutoCAD to Excel to create custom BOMs: Allowed for 
-component quantity tracking, price tracking, and component availability. 
+                     Developed and utilized a strategy to export component lists from AutoCAD to Excel to create custom BOMs: Allowed for component quantity tracking, price tracking, and component availability. 
  
 
                     </li>
@@ -113,7 +108,7 @@ hysteresis, and temperature compensation.
                   
                
    </div>
-  !<h1 align="center">My References</h1>
-  !<h4>Tony LaSalata, Controls Manager at USNR </h4>
-  !<ul> <li> Tony.LaSalata@usnr.com</li></ul>
+  <h1 align="center">My References</h1>
+  <h4>Tony LaSalata, Controls Manager at USNR </h4>
+  <ul> <li> Tony.LaSalata@usnr.com</li></ul>
 
