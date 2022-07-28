@@ -33,8 +33,8 @@
 
 <div class="">
 <h4>Lead Controls Engineer at USNR</h4>
-<p>November 2015 – Present
-</p>
+	<p>November 2015 – Present
+	</p>
 <ul class="w3-ul" style="font-weight: 500;">
   <li> Designed, programed, and commissioned industrial controls systems which included discrete & analog I/O, motion control, vision applications, and networking for engineered wood product companies.
   </li>
@@ -45,8 +45,10 @@
   </li>
   <li> Field experience commissioning and servicing control systems included PLC’s, HMI’s, VFD’s, Servos.
   </li>
-                
-
+  </ul>
+  </div>  
+  
+<div class="">
 <h4>Autotool Inc.</h4>
 <p>Senior Controls Engineer</p>
  <p> June 2012 – September 2015 </p>
@@ -64,18 +66,19 @@
 
                     </li>
                 </ul>
-				
+	  </div> 
+<div class="">	  
                 <h4>Omegadyne</h4>
 <p>Engineer Intern</p>
  <p> September 2011 – March 2012</p>
            <ul class="w3-ul" style="font-weight: 500;">
-                  <li>Hands on calibration and testing of pressure transducers and indicators for overload ability, sensitivity, linearity, balance, 
-hysteresis, and temperature compensation. 
+                  <li>Hands on calibration and testing of pressure transducers and indicators for overload ability, sensitivity, linearity, balance, hysteresis, and temperature compensation. 
 
                   </li>
                   <li>
                    Used Six Sigma applications to evaluate Authorized Returns.</li>
                 </ul>
+</div>
             
 <h1 align="center">My Education</h1>
 <div class="">
