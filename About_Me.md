@@ -53,19 +53,13 @@
 <p>Senior Controls Engineer</p>
  <p> June 2012 – September 2015 </p>
            <ul class="w3-ul" style="font-weight: 500;">
-                  <li>Worked multiple roles in a project leader position to develop OEM electrical-mechanical equipment and integrate robotic and motion controls for autonomous machines for car manufactures; i.e for Honda, GM, Ford. 
-
-                  </li>
-                  <li>
-                     Designed large multi-platform communication networks: CC-Link, DeviceNet, Ethernet with multiple protocols: CIP, Ethernet IP, DCS capabilities; and multiple topologies: star, DLR, ring, bus, linear. 
-
+					<li>Worked multiple roles in a project leader position to develop OEM electrical-mechanical equipment and integrate robotic and motion controls for autonomous machines for car manufactures; i.e for Honda, GM, Ford. 
+					</li>
+					<li>Designed large multi-platform communication networks: CC-Link, DeviceNet, Ethernet with multiple protocols: CIP, Ethernet IP, DCS capabilities; and multiple topologies: star, DLR, ring, bus, linear. 
+					</li>
+					<li>Developed and utilized a strategy to export component lists from AutoCAD to Excel to create custom BOMs: Allowed for component quantity tracking, price tracking, and component availability. 
                     </li>
-					<li>
-                     Developed and utilized a strategy to export component lists from AutoCAD to Excel to create custom BOMs: Allowed for component quantity tracking, price tracking, and component availability. 
- 
-
-                    </li>
-                </ul>
+			</ul>
 	  </div> 
 <div class="">	  
                 <h4>Omegadyne</h4>
@@ -73,10 +67,9 @@
  <p> September 2011 – March 2012</p>
            <ul class="w3-ul" style="font-weight: 500;">
                   <li>Hands on calibration and testing of pressure transducers and indicators for overload ability, sensitivity, linearity, balance, hysteresis, and temperature compensation. 
-
                   </li>
-                  <li>
-                   Used Six Sigma applications to evaluate Authorized Returns.</li>
+                  <li>Used Six Sigma applications to evaluate Authorized Returns.
+				  </li>
                 </ul>
 </div>
             
