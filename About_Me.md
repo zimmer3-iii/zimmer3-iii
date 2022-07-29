@@ -5,7 +5,7 @@
 
 </p>
 <p class="w3-margin-top-2"> 
-              If you came to this page means, you want to know more about me. Thanks for taking your time to visit here, please allow me to introduce myself.</p>
+              If you came to this page, that means you want to know more about me. Thanks for taking your time to visit here, please allow me to introduce myself.</p>
 <p> 
               I'm Stephen Zimmermann, Electrical Controls Engineer with 10+ years of expertise in programming and automating industruial equipment. 
             </p> 
